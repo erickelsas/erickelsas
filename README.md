@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
 - 🔭 I’m currently working on [Portfólio - API](https://erickelsas.github.io/portfolio-api/)
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **erickelsas@gmail.com**
 
