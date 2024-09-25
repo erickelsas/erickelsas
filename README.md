@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-- 🌱 I’m currently learning **Salesforce LWC and Apex**
+- 🌱 I’m currently learning Salesforce LWC and Apex
 
 - 📫 How to reach me **erickelsas@gmail.com**
 
