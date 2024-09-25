@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick</h1>
-- 🔭 I’m currently working on :D
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Salesforce LWC and Apex**
 
 - 📫 How to reach me **erickelsas@gmail.com**
 
